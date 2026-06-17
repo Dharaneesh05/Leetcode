@@ -23,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dharaneesh05/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0392-is-subsequence](https://github.com/Dharaneesh05/Leetcode/tree/master/0392-is-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Dharaneesh05/Leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Dharaneesh05/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
