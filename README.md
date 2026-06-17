@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dharaneesh05/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dharaneesh05/Leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -32,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Dharaneesh05/Leetcode/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
