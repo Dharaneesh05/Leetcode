@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dharaneesh05/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Dharaneesh05/Leetcode/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Dharaneesh05/Leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dharaneesh05/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Dharaneesh05/Leetcode/tree/master/0013-roman-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Dharaneesh05/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
