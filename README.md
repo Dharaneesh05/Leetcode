@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Dharaneesh05/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
