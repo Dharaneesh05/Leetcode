@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dharaneesh05/Leetcode/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -55,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dharaneesh05/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dharaneesh05/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
