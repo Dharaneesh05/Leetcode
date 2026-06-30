@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Dharaneesh05/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Dharaneesh05/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
 |  |
 | ------- |
