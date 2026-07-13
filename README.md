@@ -92,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Dharaneesh05/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Dharaneesh05/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
