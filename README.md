@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaneesh05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Dharaneesh05/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dharaneesh05/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Dharaneesh05/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Dharaneesh05/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Dharaneesh05/Leetcode/tree/master/1672-richest-customer-wealth) |
