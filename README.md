@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Dharaneesh05/Leetcode/tree/master/1920-build-array-from-permutation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Dharaneesh05/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
