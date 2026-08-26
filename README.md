@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaneesh05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Dharaneesh05/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Dharaneesh05/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Dharaneesh05/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dharaneesh05/Leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaneesh05/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Dharaneesh05/Leetcode/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/Dharaneesh05/Leetcode/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Dharaneesh05/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dharaneesh05/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
