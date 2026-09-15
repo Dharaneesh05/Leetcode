@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Dharaneesh05/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1603-design-parking-system](https://github.com/Dharaneesh05/Leetcode/tree/master/1603-design-parking-system) |
 ## Sorting
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dharaneesh05/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Dharaneesh05/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1603-design-parking-system](https://github.com/Dharaneesh05/Leetcode/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/Dharaneesh05/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Database
 |  |
@@ -150,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharaneesh05/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-design-parking-system](https://github.com/Dharaneesh05/Leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
